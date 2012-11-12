@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/UploaderGUIScript.cs">
+    <Files>
+      <File FileName="../../unity/mono-1.1/mono/jsonsharpexample/Main.cs" Line="66" Column="65" />
+      <File FileName="../../unity/scissor_622.cs" Line="50" Column="4" />
+      <File FileName="../../downloads/monkey/MonkeyPro49unity/modules/mojo/native/mojo.unity.cs" Line="767" Column="4" />
+      <File FileName="../../downloads/monkey/MonkeyPro50/modules/mojo/native/mojo.unity.cs" Line="557" Column="1" />
+      <File FileName="../../downloads/monkey/MonkeyPro51/modules/monkey/native/lang.cs" Line="18" Column="31" />
+      <File FileName="Assets/scripts/TimeStreamScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/UploaderGUIScript.cs" Line="93" Column="65" />
+      <File FileName="Assets/scripts/AccelScript.cs" Line="51" Column="62" />
+      <File FileName="Assets/scripts/CaptureGUIScript.cs" Line="168" Column="1" />
+      <File FileName="Assets/scripts/UploaderScript.cs" Line="10" Column="25" />
+      <File FileName="Assets/scripts/ToggleScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/SetupGUIScript.cs" Line="215" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
